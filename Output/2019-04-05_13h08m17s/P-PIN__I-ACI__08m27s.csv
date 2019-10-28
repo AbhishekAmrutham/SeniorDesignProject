@@ -1,0 +1,53 @@
+IP,CVSS Base Vector,Posture,Access Vector,Access Vector Score,Access Complexity,Access Complexity Score,Authentication,Authentication Score,Confidentiality Impact,Confidentiality Impact Score,Integrity Impact,Integrity Impact Score,Availability Impact,Availability Impact Score,Exploitability %,Affected Metrics,Statement
+192.168.1.152,,,,,,,,,,,,,,,,,
+192.168.1.133,,,,,,,,,,,,,,,,,
+192.168.1.106,,,,,,,,,,,,,,,,,
+192.168.1.76,,,,,,,,,,,,,,,,,
+192.168.1.32,,,,,,,,,,,,,,,,,
+192.168.1.27,,,,,,,,,,,,,,,,,
+192.168.1.21,,,,,,,,,,,,,,,,,
+192.168.1.16,,,,,,,,,,,,,,,,,
+192.168.1.1,,,,,,,,,,,,,,,,,
+,CVSS2#AV:A/AC:L/Au:N/C:P/I:N/A:N,Nearsider,A,0.646,L,0.71,N,0.704,P,0.275,N,0,N,0,59.56758658905118,Confidentiality,This vulnerability can be exploited 59.6% of the time and it causes a loss of Confidentiality.
+,CVSS2#AV:A/AC:L/Au:N/C:P/I:N/A:N,Nearsider,A,0.646,L,0.71,N,0.704,P,0.275,N,0,N,0,59.56758658905118,Confidentiality,This vulnerability can be exploited 59.6% of the time and it causes a loss of Confidentiality.
+192.168.7.164,,,,,,,,,,,,,,,,,
+192.168.7.163,,,,,,,,,,,,,,,,,
+192.168.7.162,,,,,,,,,,,,,,,,,
+192.168.7.157,,,,,,,,,,,,,,,,,
+192.168.7.156,,,,,,,,,,,,,,,,,
+192.168.7.123,,,,,,,,,,,,,,,,,
+192.168.7.111,,,,,,,,,,,,,,,,,
+192.168.7.82,,,,,,,,,,,,,,,,,
+192.168.7.29,,,,,,,,,,,,,,,,,
+192.168.7.27,,,,,,,,,,,,,,,,,
+192.168.7.21,,,,,,,,,,,,,,,,,
+192.168.7.1,,,,,,,,,,,,,,,,,
+,CVSS2#AV:A/AC:L/Au:N/C:P/I:N/A:N,Nearsider,A,0.646,L,0.71,N,0.704,P,0.275,N,0,N,0,59.56758658905118,Confidentiality,This vulnerability can be exploited 59.6% of the time and it causes a loss of Confidentiality.
+192.168.2.252,,,,,,,,,,,,,,,,,
+192.168.2.250,,,,,,,,,,,,,,,,,
+192.168.2.228,,,,,,,,,,,,,,,,,
+192.168.2.225,,,,,,,,,,,,,,,,,
+,CVSS2#AV:A/AC:L/Au:N/C:P/I:N/A:N,Nearsider,A,0.646,L,0.71,N,0.704,P,0.275,N,0,N,0,59.56758658905118,Confidentiality,This vulnerability can be exploited 59.6% of the time and it causes a loss of Confidentiality.
+192.168.2.205,,,,,,,,,,,,,,,,,
+192.168.2.189,,,,,,,,,,,,,,,,,
+192.168.2.187,,,,,,,,,,,,,,,,,
+192.168.2.82,,,,,,,,,,,,,,,,,
+192.168.2.63,,,,,,,,,,,,,,,,,
+192.168.2.60,,,,,,,,,,,,,,,,,
+,CVSS2#AV:A/AC:L/Au:N/C:P/I:P/A:P,Nearsider,A,0.646,L,0.71,N,0.704,P,0.275,P,0.275,P,0.275,59.56758658905118,"Confidentiality,Integrity,Availability","This vulnerability can be exploited 59.6% of the time and it causes a loss of Confidentiality,Integrity,Availability."
+192.168.2.16,,,,,,,,,,,,,,,,,
+192.168.2.4,,,,,,,,,,,,,,,,,
+,CVSS2#AV:A/AC:L/Au:N/C:P/I:N/A:N,Nearsider,A,0.646,L,0.71,N,0.704,P,0.275,N,0,N,0,59.56758658905118,Confidentiality,This vulnerability can be exploited 59.6% of the time and it causes a loss of Confidentiality.
+192.168.2.3,,,,,,,,,,,,,,,,,
+192.168.2.1,,,,,,,,,,,,,,,,,
+,CVSS2#AV:A/AC:L/Au:N/C:P/I:N/A:N,Nearsider,A,0.646,L,0.71,N,0.704,P,0.275,N,0,N,0,59.56758658905118,Confidentiality,This vulnerability can be exploited 59.6% of the time and it causes a loss of Confidentiality.
+,CVSS2#AV:A/AC:L/Au:N/C:P/I:N/A:N,Nearsider,A,0.646,L,0.71,N,0.704,P,0.275,N,0,N,0,59.56758658905118,Confidentiality,This vulnerability can be exploited 59.6% of the time and it causes a loss of Confidentiality.
+192.168.3.146,,,,,,,,,,,,,,,,,
+192.168.3.128,,,,,,,,,,,,,,,,,
+192.168.3.124,,,,,,,,,,,,,,,,,
+192.168.3.112,,,,,,,,,,,,,,,,,
+192.168.3.1,,,,,,,,,,,,,,,,,
+,CVSS2#AV:A/AC:L/Au:N/C:P/I:N/A:N,Nearsider,A,0.646,L,0.71,N,0.704,P,0.275,N,0,N,0,59.56758658905118,Confidentiality,This vulnerability can be exploited 59.6% of the time and it causes a loss of Confidentiality.
+,CVSS2#AV:A/AC:L/Au:N/C:P/I:P/A:P,Nearsider,A,0.646,L,0.71,N,0.704,P,0.275,P,0.275,P,0.275,59.56758658905118,"Confidentiality,Integrity,Availability","This vulnerability can be exploited 59.6% of the time and it causes a loss of Confidentiality,Integrity,Availability."
+""
+This probability of at least 1 exploit assuming 100% attacker capability is 100.0%.

@@ -1,0 +1,32 @@
+filterFileName = createFileName(filterPostures, filterImpacts, filterIPs)
+
+def createFileName(postures, impacts, IPs):
+    fileName = "Pst"
+    if "Privileged Insider" in postures:
+        fileName += "P"
+    if "Insider" in postures:
+        fileName += "I"
+    if "Nearsider" in postures:
+        fileName += "N"
+    if "Outsider" in postures:
+        fileName += "O"
+    fileName += "_"
+
+    fileName += "Imp"
+    if (impacts[0] == True):
+        fileName += "A"
+    if (impacts[1] == True):
+        fileName += "C"
+    if (impacts[2] == True):
+        fileName += "I"
+    fileName += "_"
+
+    if (IPs[0] == "000.000.000.000" and IPs[1] == "255.255.255.255"):
+        fileName += ""
+    else:
+        fileName += "IP_"
+
+    ts = time.time()
+    st = datetime.datetime.fromtimestamp(ts).strftime('m%M_s%S')
+    fileName += st
+    return fileName
